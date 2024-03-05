@@ -1,2 +1,2 @@
 # Learning
-Created for learning perpous
+Created for learning purpose
